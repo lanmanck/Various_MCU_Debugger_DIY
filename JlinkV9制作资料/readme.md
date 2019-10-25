@@ -28,7 +28,7 @@
 
 - 焊接(手焊大概半个小时，建议使用刀头老铁焊接，尖头的话0402手太抖就🐶die)
 
-- 写入bootloader，怎么写入就不废话了
+- 写入bootloader，怎么写入就不废话了。哥，你只写bootloader就可以发现设备吗？我怎么发现不了呢？还差什么东西？
 
 - 在J-Link Commonder里面添加S/N后, 添加Licenses
 
